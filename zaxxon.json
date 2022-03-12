@@ -59,7 +59,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"zaxxon-tiles.tsx"
+         "source":"zaxxon.tsx"
         }],
  "tilewidth":32,
  "type":"map",
